@@ -1,0 +1,10 @@
+pandas
+numpy
+yfinance
+pillow
+tqdm
+tensorflow
+matplotlib
+imblearn
+scikit-learn
+bayes-opt
